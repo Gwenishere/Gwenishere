@@ -3,7 +3,7 @@
 
 <span>My name's *Gwenaëlle*</span>
 
--  I'm graduated SEO/Display, e-commerce and digital marketing
+-  I'm graduated in SEO/Display, e-commerce and digital marketing
 -  I can speak French, English, Portuguese, Spanish and Italian
 -  I'm student in web development
 -  I’m currently learning HTML, CSS, Sass, Bootstrap, Javascript
