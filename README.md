@@ -9,7 +9,7 @@
 -  I’m currently learning HTML, CSS, Sass, Bootstrap, Javascript
 -  I use VSC, Github, Codepen, Balsamiq
 -  I like creating little games or stories, animations using Scratch or Codepen, for fun :video_game:
-
+-  I'm a Google Crowdsource member and a MDN translator member English > French
 
 
 
