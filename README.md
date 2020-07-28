@@ -1,5 +1,5 @@
 
-<img src="https://github.com/Gwenishere/Gwenishere/blob/master/giphygif.gif" width="40" height="40" />
+<img src="https://github.com/Gwenishere/Gwenishere/blob/master/giphygif.gif" />
 
 ### Hi there :computer:
 
