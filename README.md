@@ -1,4 +1,6 @@
 
+<img src="https://github.com/Gwenishere/Gwenishere/blob/master/giphygif.gif" width="40" height="40" />
+
 ### Hi there :computer:
 
 <span>My name's *Gwenaëlle*</span>
