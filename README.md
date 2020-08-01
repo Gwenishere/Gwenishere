@@ -14,8 +14,7 @@
 -  I'm a Google Crowdsource member and a MDN translator member English > French
 
 
-![Gwenishere github stats]
-(https://github-readme-stats.vercel.app/api?gwenishere=Github_gwenishere&show_icons=true) 
+<img src="https://github-readme-stats.vercel.app/api?gwenishere=Github_gwenishere&show_icons=true" >
 
 
 
