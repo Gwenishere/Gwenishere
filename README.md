@@ -1,5 +1,5 @@
 
-<img src="https://github.com/Gwenishere/Gwenishere/blob/master/clark-tibbs-unsplash.jpg"/>
+
 
 ### Hi there :computer:
 
