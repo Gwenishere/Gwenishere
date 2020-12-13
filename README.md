@@ -1,5 +1,5 @@
 
-<img src="https://github.com/Gwenishere/Gwenishere/blob/master/It's%20a%20perfect%20day.jpg">
+<img src="https://github.com/Gwenishere/Gwenishere/blob/master/It's%20a%20perfect%20day.jpg" width=600px style="max-width:100%;">
 
 ### Hi there :computer:
 
