@@ -5,7 +5,7 @@
 
 <span>My name's *Gwenaëlle*</span>
 
--  I'm graduated in SEO/Display, e-commerce and digital marketing
+-  I'm graduated in SEO/Display, e-commerce and marketing on web
 -  I can speak French, English, Portuguese, Spanish and Italian
 -  I'm student in web development (JS, React, NodeJs, SQL)
 -  I like creating little games or stories, animations using Scratch or Codepen, for fun :video_game:
@@ -14,5 +14,4 @@
 
 
 
-<img src="https://github.com/Gwenishere/Gwenishere/blob/master/received_416713038940968.gif" height=200px, width=200px> <br>
-<q>My motto is: keep on going, never give up</q>
+<q font-size=20px>My motto is: keep on going, never give up</q>
