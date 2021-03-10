@@ -1,5 +1,5 @@
 
-<video src="https://github.com/Gwenishere/Gwenishere/blob/master/Video%20Full%20HD%201920x1080%20px.mp4" width=600px >
+<img src="https://github.com/Gwenishere/Gwenishere/blob/master/Video%20Full%20HD%201920x1080%20px.mp4" width=600px >
 
 ### Hi there :computer:
 
