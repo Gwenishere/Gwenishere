@@ -1,9 +1,8 @@
 
 <img src="https://github.com/Gwenishere/Gwenishere/blob/master/Video%20Full%20HD%201920x1080%20px%20(1).gif" width=800px, height=400px>
 
-# Hi there 😊
-
-<span>My name's *Gwenaëlle*</span>
+# Hi there  
+##  <span>My name's *Gwenaëlle*</span>
 
 -  I'm graduated in SEO/Display, e-commerce and marketing on web
 -  I can speak French, English, Portuguese, Spanish and Italian
@@ -11,8 +10,24 @@
 -  I like creating little games or stories, animations using Scratch or Codepen, for fun 
 -  I'm a Google Crowdsource member (translation, "teacher" for robots)
 
+###  Tech  Stack
 
+<div>
+  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" />
+  <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black" />
+  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+  <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
+  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
+  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+  <img alt="SQL" src="https://img.shields.io/badge/-SQL-43899d?style=flat-square&logo=mysql&logoColor=white" />
+   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />
+</div>
+
+###  Top Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gwenishere&layout=compact)](https://github.com/Gwenishere/github-readme-stats)
+
 
 
 <q font-size=20px>My motto is: keep on going, never give up</q>
