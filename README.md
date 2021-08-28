@@ -1,12 +1,12 @@
 
-<img src="https://github.com/Gwenishere/Gwenishere/blob/master/Video%20Full%20HD%201920x1080%20px%20(1).gif" width=800px, height=400px>
+<img src="https://github.com/Gwenishere/Gwenishere/blob/master/Gwe.gif" width=800px, height=400px>
 
 # Hi there  
 ##  <span>My name's Gwenaëlle (She/Her)</span>
 
 -  I'm graduated in SEO/Display, e-commerce and marketing on web
 -  I can speak French, English, Portuguese, Spanish and Italian
--  I'm student in web development (JS, Reactjs, Redux, JQuery, NodeJs, SQL)
+-  I'm student in web development (JS, Reactjs, Redux, JQuery, NodeJs, SQL) and in CS50(C, Python, fudamental basics)
 -  I like creating little games or stories, animations using Scratch or Codepen, for fun 
 -  I'm a Google Crowdsource member (translation, "teacher" for robots)
 
@@ -26,6 +26,7 @@
   <img alt="router" src="https://img.shields.io/badge/-React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+  <img alt="C" src="https://img.shields.io/badge/-C-23F7DF1E?style=flat-square&logo=C&logoColor=white" />
   <img alt="SQL" src="https://img.shields.io/badge/-SQL-43899d?style=flat-square&logo=mysql&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />
 </div>
