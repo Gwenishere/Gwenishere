@@ -7,7 +7,7 @@
 -  I'm graduated in SEO/Display, e-commerce and marketing on web
 -  I can speak French, English, Portuguese, Spanish and Italian
 -  I'm student in web development (JS, Reactjs, Redux, JQuery, NodeJs, SQL) and in CS50(C, Python, fudamental basics)
--  I like creating little games or stories, animations using Scratch or Codepen, for fun 
+-  I like creating little games or stories, animations using Scratch or Codepen, for fun (as the one at the top ;) )
 -  I'm a Google Crowdsource member (translation, "teacher" for robots)
 
 <q font-size=20px>My motto is: keep on going, never give up</q>
