@@ -1,5 +1,5 @@
 
-<img src="https://github.com/Gwenishere/Gwenishere/blob/master/colormove.gif" width=800px, height=300px>
+<img src="https://github.com/Gwenishere/Gwenishere/blob/master/colormove.gif" width=600px, height=300px>
 
 # Hi there  
 ##  <span>My name's Gwenaëlle (She/Her)</span>
