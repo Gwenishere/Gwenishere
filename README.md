@@ -4,9 +4,9 @@
 # Hi there  
 ##  <span>My name's Gwenaëlle (She/Her)</span>
 
--  I'm graduated in Data analyse, Web dev, SEO/Display, e-commerce.
--  I can speak French, English, Portuguese, Spanish and Italian
--  I like creating charts, prdiction, little games or stories, animations using Scratch or Codepen, for fun (as the one at the top ;) )
+-  I'm graduated in Data analyse, SEO/Display, e-commerce.
+-  I can speak French, English, Portuguese, German, Spanish and Italian
+-  I like creating charts, prediction, little games or stories, animations using Scratch or Codepen, for fun (as the one at the top ;) )
 -  I'm a Google Crowdsource member (translation, "teacher" for robots)
 
 <q font-size=20px>My motto is: keep on going, never give up</q>
