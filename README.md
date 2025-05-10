@@ -8,6 +8,7 @@
 -  I can speak French, English, Portuguese, German, Spanish and Italian
 -  I like creating charts, prediction, little games or stories, animations using Scratch or Codepen, for fun (as the one at the top ;) )
 -  I'm a Google Crowdsource member (translation, "teacher" for robots)
+-  Watch my work on Kaggle : https://www.kaggle.com/gwenup
 
 <q font-size=20px>My motto is: keep on going, never give up</q>
 
